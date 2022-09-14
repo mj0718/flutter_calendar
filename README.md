@@ -1,6 +1,6 @@
 # health_diary
 
-A new Flutter project.
+캘린더 어플 아직 미완성
 
 ## Getting Started
 
